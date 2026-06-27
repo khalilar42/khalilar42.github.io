@@ -2,6 +2,7 @@
 title: Initial commit
 date: 2026-03-24 21:09
 categories: [blog]
+tags: [toughts]
 pin: true
 ---
 

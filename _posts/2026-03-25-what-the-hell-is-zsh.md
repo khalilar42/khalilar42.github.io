@@ -1,8 +1,9 @@
 ---
-title: what the hell is zsh?
+title: What the hell is zsh?
 description: Learn what a shell, terminal, and CLI are, and discover the specifics of Zsh.
 date: 2026-03-25 21:05
-categories: [blog,tech]
+categories: [tech]
+tags: [shell]
 toc: true
 image:
   path: assets/img/2026-03-25-what-the-hell-is-zsh/lukas-MU8w72PzRow-unsplash.jpg
@@ -40,7 +41,7 @@ A shell has a lot of commands (programs/tools) that you can use to do multiple t
 
 But what really happens when you type `cd Desktop` or `ls Desktop` ? 
 
-As mentioned earlier, `cd` and `ls` are just programs, but how does your shell find them? And why don't they have an extension? You know, when we have a Java program, it has a .java file extension, right?
+As mentioned earlier, `cd` and `ls` are just programs, but how does your shell find them? And why don't they have an extension? You know, when we have a executable windows program, it has a .exe file extension, right?
 
 Well its because these program are not source files but precompiled files ready to be executed and saved in a specific directory depending on your operating system, how does the shell find this specific directory ?
 
